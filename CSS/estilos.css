@@ -129,6 +129,7 @@ background-image: url(../../img/googleplus.png);
 footer {
  background-image: url (../../img/fundo-rodape.png);
  clear: both;
+ padding: 20px 0;
 }
 
 
